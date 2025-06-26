@@ -1,7 +1,7 @@
 LAST_UPDATE: 26.06.2025   
 ENTERED: 27.06.2025   
 
-### <br> 0. Definitions <br><br>
+### <br> Definitions <br><br>
 **0.1 Supervisor** – The founders and board of the Thallium project. <br>
 **0.2 Staff** – Any individual officially appointed by Thallium Studio to act on behalf of the Service or its projects, especially in administration, moderation, technical support, or service development. <br>
 **0.3 Internal tools** – Any panels, bots, systems, or features accessible exclusively to staff members. <br>
