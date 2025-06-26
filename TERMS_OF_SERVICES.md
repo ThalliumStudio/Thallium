@@ -1,14 +1,14 @@
 LAST_UPDATE: 26.06.2025  
 ENTERED: 27.06.2025
 
-### Definitions<br>
+<br>###Definitions<br><br>
 **0.1 Service Provider** - Thallium Studio based in Poland, the team responsible for the development and maintenance of the Website and Services.<br>
 **0.2 Website** - the website operating at thalium.vercel.app and its associated services.<br>
 **0.3 Services** - all projects, applications, and services provided by the Service Provider, including applications running on third-party platforms.<br>
 **0.4 User** - a natural person using the Website or Services.<br>
 **0.5 Content** - any materials, data, information published by Users as part of using the Services.<br>
 
-### 1. General Provisions<br>
+<br>###1. General Provisions<br><br>
 
 **1.1** These Terms and Conditions define the rules for using the Website and Services provided by the Service Provider.<br>
 **1.2** Use of the Website or Services constitutes acceptance of these Terms in their entirety.<br>
@@ -16,7 +16,7 @@ ENTERED: 27.06.2025
 **1.4** Users are required to comply with the regulations of third-party platforms on which the Services operate (e.g., Discord Terms of Service, Discord Community Guidelines).<br>
 **1.5** Ignorance of the Terms does not exempt the User from the obligation to comply with them.<br>
 
-### 2. Conditions of Use<br>
+<br>###2. Conditions of Use<br><br>
 
 **Intended Use**<br>
 **2.1** The Website and Services may be used by persons over the age of 16.<br>
@@ -25,7 +25,7 @@ ENTERED: 27.06.2025
 - applicable laws in the Republic of Poland<br>
 - European Union law<br>
 - local legal regulations<br>
-- third-party platform rules<br>
+- third-party platform rules<br><br>
 
 **Prohibitions and Restrictions**<br>
 **2.4** The User is prohibited from:<br>
@@ -48,7 +48,7 @@ ENTERED: 27.06.2025
 - comply with data protection rules<br>
 - provide accurate information during registration<br>
 
-### 3. Access and Restrictions<br>
+<br>### 3. Access and Restrictions<br><br>
 
 **3.1** The Service Provider reserves the right to:<br>
 - temporarily or permanently block access to Services<br>
@@ -63,14 +63,14 @@ ENTERED: 27.06.2025
 
 **3.3** Users have the right to appeal a block through official support channels, provided justification is presented.<br>
 
-### 4. Copyright and Intellectual Property<br>
+<br>### 4. Copyright and Intellectual Property<br><br>
 
 **4.1** All copyrights to the Website and its elements belong to the Service Provider.<br>
 **4.2** The User grants the Service Provider a license to use Content submitted by them for the purpose of providing the Services.<br>
 **4.3** The User declares that they hold full rights to submitted Content and that it does not infringe third-party rights.<br>
 **4.4** Responsibility for submitted Content lies entirely with the User.<br>
 
-### 5. Liability<br>
+<br>### 5. Liability<br><br>
 
 **Limitation of Service Provider Liability**<br>
 **5.1** The Service Provider is not liable for:<br>
@@ -87,7 +87,7 @@ ENTERED: 27.06.2025
 
 **5.3** The Service Provider does not guarantee that the Services will meet individual User needs.<br>
 
-**User Liability**<br>
+<br>**User Liability**<br><br>
 **5.4** The User is fully responsible for:<br>
 - how they use the Services<br>
 - content shared via the Services<br>
@@ -96,14 +96,14 @@ ENTERED: 27.06.2025
 
 **5.5** The entire risk related to the quality and operation of the Services lies with the User.<br>
 
-**Force Majeure and Uncontrollable Events**<br>
+<br>**Force Majeure and Uncontrollable Events**<br><br>
 **5.6** The Service Provider is not responsible for disruptions caused by:<br>
 - force majeure<br>
 - actions of third parties<br>
 - failures of third-party platforms<br>
 - incompatibility of User systems with the Services<br>
 
-### 6. Support and Reporting<br>
+<br>### 6. Support and Reporting<br><br>
 
 **6.1** Errors in the Services should be reported immediately through official support channels.<br>
 **6.2** The User is required to cooperate in resolving technical issues.<br>
@@ -114,13 +114,13 @@ ENTERED: 27.06.2025
 **6.4** Standard response time to inquiries is up to 7 business days.<br>
 **6.5** Users are requested to resolve any issues and disputes amicably without legal measures via the contact methods mentioned in point 6.3.<br>
 
-### 7. Data Protection<br>
+<br>### 7. Data Protection<br><br>
 
 **7.1** The processing of personal data is carried out in accordance with a separate Privacy Policy.<br>
 **7.2** The Service Provider commits to protecting User privacy in accordance with applicable legal provisions.<br>
 **7.3** Detailed information on data processing is included in the Privacy Policy, which is an integral part of these Terms.<br>
 
-### 8. Termination of Services<br>
+<br>### 8. Termination of Services<br><br>
 
 **8.1** The User may stop using the Services at any time.<br>
 **8.2** The Service Provider may suspend or terminate Services if the User violates these Terms.<br>
@@ -129,7 +129,7 @@ ENTERED: 27.06.2025
 - change functionality<br>
 - terminate Services with 14 days’ notice<br>
 
-### 9. Final Provisions<br>
+<br>### 9. Final Provisions<br><br>
 
 **9.1** The Service Provider reserves the right to temporarily or permanently suspend Services without providing a reason.<br>
 **9.2** The Terms come into effect upon publication and apply to all Users.<br>
