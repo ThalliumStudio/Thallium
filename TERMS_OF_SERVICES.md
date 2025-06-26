@@ -15,6 +15,9 @@ ENTERED: 27.06.2025
 **1.3** The Terms may be amended at any time. Users will be informed of changes through appropriate communication channels. Continued use of the Website or Services constitutes acceptance of the amended Terms.<br>
 **1.4** Users are required to comply with the regulations of third-party platforms on which the Services operate (e.g., Discord Terms of Service, Discord Community Guidelines).<br>
 **1.5** Ignorance of the Terms does not exempt the User from the obligation to comply with them.<br>
+**1.6** Every user has the right to post opinions on the project. However, the Service Provider decides which ones will be posted on the site.<br>
+**1.7** Posting an opinion is tantamount to consenting to its publication on the site.<br>
+**1.8** The author of the opinion has the right to request its removal.<br>
 
 ### <br> 2. Conditions of Use<br><br>
 
