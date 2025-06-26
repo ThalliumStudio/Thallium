@@ -30,19 +30,26 @@ ENTERED: 27.06.2025
 **4.1** If a User contacts us via email or Discord (see section 6.3 of the Terms), the data they provide (e.g., email address, Discord username) will be processed solely for the purpose of responding to the inquiry.<br>
 **4.2** Such data will not be stored beyond the duration necessary to handle the request and will not be shared with third parties.<br>
 
-
 ### <br> 5. User Rights<br><br>
 
 **5.1** Since no personal data is actively collected, there is no user data to view, modify, or delete.<br>
 **5.2** Should data be voluntarily submitted (e.g., during contact), Users may request its removal by contacting us through official channels.<br>
+**5.3** In accordance with the General Data Protection Regulation (GDPR), Users (data subjects) have the following rights regarding their personal data, when applicable:  
+- Right of access (Art. 15 GDPR)  
+- Right to rectification (Art. 16 GDPR)  
+- Right to erasure (“right to be forgotten”, Art. 17 GDPR)  
+- Right to restriction of processing (Art. 18 GDPR)  
+- Right to data portability (Art. 20 GDPR)  
+- Right to object to processing (Art. 21 GDPR)  
+- Right to lodge a complaint with a supervisory authority (Art. 77 GDPR – in Poland: UODO)  
 
+**5.4** These rights may be exercised by contacting us via the channels listed in Section 8.
 
 ### <br> 6. Security<br><br>
 
 **6.1** We apply basic technical and organizational measures to protect all forms of communication and data transmission (e.g., SSL encryption).<br>
 **6.2** Despite our efforts, we cannot fully guarantee the security of data transmitted over the Internet.<br>
-
-
+**6.3** In the event of a personal data breach, we will notify affected Users and the relevant supervisory authority in accordance with Articles 33 and 34 of the GDPR, where applicable.
 
 ### <br> 7. Changes to the Policy<br><br>
 
@@ -50,10 +57,8 @@ ENTERED: 27.06.2025
 **7.2** Users will be informed of changes through appropriate channels (e.g., Website announcement).<br>
 **7.3** Continued use of the Website and Services after the update constitutes acceptance of the new Policy.<br>
 
-
 ### <br> 8. Contact<br><br>
 
 **8.1** For privacy-related inquiries, Users can contact us via:<br>
 - email: thallium.studio@proton.me<br>
 - Discord server: https://thalium.vercel.app/discord<br>
-
