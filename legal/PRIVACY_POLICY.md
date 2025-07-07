@@ -1,5 +1,5 @@
-**LAST_UPDATE: 07.07.2025**  
-**ENTERED: 08.07.2025**
+LAST_UPDATE: 07.07.2025   
+ENTERED: 08.07.2025
 
 ### <br> 1. General Information<br><br>
 
@@ -18,9 +18,9 @@
 **3.1** The Website currently does **not use cookies**.<br>
 **3.2** In the future, cookies may be used to:<br>
 
-* remember User preferences<br>
-* analyze anonymous traffic statistics<br>
-* improve functionality of the Website<br>
+- remember User preferences<br>
+- analyze anonymous traffic statistics<br>
+- improve functionality of the Website<br>
 
 **3.3** Users will be informed in advance if cookies are introduced.<br>
 **3.4** If cookies are implemented, the Website will include a clear banner or pop-up informing about their use and requesting consent.<br>
@@ -39,13 +39,13 @@
 **5.2** However, if Users submit data via the contact form and wish to have it removed or no longer contacted, they may request so through our official contact channels.<br>
 **5.3** In accordance with the General Data Protection Regulation (GDPR), Users (data subjects) have the following rights when applicable:<br>
 
-* Right of access (Art. 15 GDPR)
-* Right to rectification (Art. 16 GDPR)
-* Right to erasure (“right to be forgotten”, Art. 17 GDPR)
-* Right to restriction of processing (Art. 18 GDPR)
-* Right to data portability (Art. 20 GDPR)
-* Right to object to processing (Art. 21 GDPR)
-* Right to lodge a complaint with a supervisory authority (Art. 77 GDPR – in Poland: UODO)<br>
+- Right of access (Art. 15 GDPR)
+- Right to rectification (Art. 16 GDPR)
+- Right to erasure (“right to be forgotten”, Art. 17 GDPR)
+- Right to restriction of processing (Art. 18 GDPR)
+- Right to data portability (Art. 20 GDPR)
+- Right to object to processing (Art. 21 GDPR)
+- Right to lodge a complaint with a supervisory authority (Art. 77 GDPR – in Poland: UODO)<br>
 
 **5.4** These rights may be exercised by contacting us via the channels listed in Section 8.<br>
 
