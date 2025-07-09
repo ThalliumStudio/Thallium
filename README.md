@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://thallium.pages.dev">
-    <img src="https://raw.githubusercontent.com/Thallium-Studio/.github/main/logo.png" alt="Thallium Logo" width="140" />
+    <img src="https://raw.githubusercontent.com/ThalliumStudio/.github/main/logo.png" alt="Thallium Logo" width="140" />
   </a>
 
   <h3 align="center">Thallium Studio</h3>
