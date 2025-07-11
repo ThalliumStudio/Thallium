@@ -1,5 +1,5 @@
 LAST_UPDATE: 09.07.2025  
-EFFECTIVE_DATE: 10.07.2025
+ENTERED: 10.07.2025
 
 ### <br> 1. General Information <br><br>
 **1.1** The Website and Services are operated by Thallium Studio based in Poland.<br>
