@@ -1,5 +1,5 @@
 LAST_UPDATE: 09.07.2025  
-EFFECTIVE_DATE: 10.07.2025
+ENTERED: 10.07.2025
 
 ### <br> Definitions <br><br>
 **0.1 Service Provider** – Thallium Studio based in Poland, the team responsible for the development and maintenance of the Website and Services.<br>
