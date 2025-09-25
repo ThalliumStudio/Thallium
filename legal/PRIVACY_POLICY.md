@@ -1,5 +1,15 @@
-LAST_UPDATE: 24.09.2025  
-ENTERED: 25.09.2025
+LAST_UPDATE: 25.09.2025  
+ENTERED: 26.09.2025
+
+### <br> Definitions <br><br>
+**0.1 Service Provider** – Thallium Studio, the team responsible for the development and maintenance of the Website and Services.<br>
+**0.2 Website** – the website operating at thallium.pages.dev and its associated services.<br>
+**0.3 Services** – all projects, applications, and services provided by the Service Provider, including applications running on third-party platforms.<br>
+**0.4 User** – a natural person using the Website or Services.<br>
+**0.5 Content** – any materials, data, and information published by Users as part of using the Services.<br>
+**0.6 Communication Channels** – all communication channels through which the Service Provider may transmit messages (e.g., Support server on Discord, articles or banners on websites).<br>
+**0.7 GDPR** – General Data Protection Regulation (Regulation (EU) 2016/679), a European Union regulation on data protection and privacy.<br>
+**0.8 Cookies** – small text files saved by a web browser, used to store information about the User's visit to a website.<br>
 
 ### <br> 1. General Information <br><br>
 **1.1** The Website and Services are operated by Thallium Studio based in Poland.<br>
@@ -14,24 +24,24 @@ ENTERED: 25.09.2025
 **2.4** We do not profile or track Users across different websites.<br>
 
 ### <br> 3. Cookies <br><br>
-**3.1** The Website currently does **not use cookies** or similar tracking technologies.<br>
+**3.1** The Website currently does not use cookies or similar tracking technologies.<br>
 **3.2** Should this change in the future, cookies will be used only for essential functions, in accordance with the law and after obtaining the User's consent.<br>
 - storing User preferences<br>
 - collecting anonymous statistics<br>
 - enhancing Website usability<br>
-**3.3** Users will be clearly informed **before** any cookie implementation.<br>
+**3.3** Users will be clearly informed before any cookie implementation.<br>
 **3.4** A visible banner or pop-up will request User consent prior to storing cookies.<br>
 **3.5** Users will have full control over cookie settings via their browser and any provided management tools.<br>
 
 ### <br> 4. Analytics and Logs <br><br>
-**4.1** We do **not** use external analytics services like Google Analytics.<br>
+**4.1** We do not use external analytics services like Google Analytics.<br>
 **4.2** We may use basic, privacy-focused tools to monitor uptime, performance, and abuse detection, in accordance with the law.<br>
 **4.3** These logs do not store personally identifiable information and are not linked to User activity.<br>
 
 ### <br> 5. Data from Contact, Support and Recruitment Forms <br><br>
 **5.1** When using our contact form, the entered data (like email and message) is transmitted directly to our support channel via a secured Discord webhook.<br>
-**5.2** The information is **exclusively used** to address the User’s request, typically via email reply, in accordance with the law.<br>
-**5.3** We do **not** retain, reuse, or analyze this data beyond the context of that communication, unless required by law.<br>
+**5.2** The information is exclusively used to address the User’s request, typically via email reply, in accordance with the law.<br>
+**5.3** We do not retain, reuse, or analyze this data beyond the context of that communication, unless required by law.<br>
 **5.4** No databases are involved. No data is shared with third parties — excluding technical delivery via Discord (under its own privacy policy) or where required by law.<br>
 **5.5** Application-related submissions are treated the same as other contact messages.<br>
 **5.6** Approved applications are redirected to a dedicated channel and remain available only for the duration of the collaboration.<br>
@@ -47,7 +57,7 @@ ENTERED: 25.09.2025
 **6.3** We do not send unsolicited messages, marketing messages or newsletters.<br>
 
 ### <br> 7. User Rights <br><br>
-**7.1** As we do **not** maintain a database of personal information, most GDPR rights (e.g. access, portability) are **not applicable** in standard use.<br>
+**7.1** As we do not maintain a database of personal information, most GDPR rights (e.g. access, portability) are not applicable in standard use.<br>
 **7.2** However, if any information was submitted via the contact form and a User wishes to revoke consent or be forgotten, we will honor such requests on demand, unless there is a legal obligation to retain the data.<br>
 **7.3** According to the General Data Protection Regulation (GDPR), Users may have the following rights where applicable:<br>
 - Access to their data (Art. 15 GDPR)<br>
