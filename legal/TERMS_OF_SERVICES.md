@@ -1,5 +1,5 @@
-LAST_UPDATE: 24.09.2025  
-ENTERED: 25.09.2025
+LAST_UPDATE: 25.09.2025  
+ENTERED: 26.09.2025
 
 ### <br> Definitions <br><br>
 **0.1 Service Provider** – Thallium Studio based in Poland, the team responsible for the development and maintenance of the Website and Services.<br>
@@ -14,7 +14,7 @@ ENTERED: 25.09.2025
 **1.2** Use of the Website or Services constitutes acceptance of these Terms in their entirety and an obligation to comply with them.<br>
 **1.3** The Terms may be amended at any time. Users will be informed of changes through appropriate communication channels. Continued use of the Website or Services constitutes acceptance of the amended Terms.<br>
 **1.4** Users are required to comply with the regulations of third-party platforms on which the Services operate (e.g., Discord Terms of Service, Discord Community Guidelines).<br>
-**1.5** Ignorance of the Terms does not exempt the User from the obligation to comply with them.<br>
+**1.5** Not knowing the Terms does not exempt the User from the obligation to comply with them.<br>
 
 
 ### <br> 2. Conditions of Use <br><br>
@@ -59,31 +59,31 @@ ENTERED: 25.09.2025
   - third-party platform rules<br>
   
 **3.3** Users have the right to appeal a block through official support channels.<br>
-**3.3.1** The Service Provider has the right to reject or accept an appeal without providing detailed argumentation for the decision. The service provider has 14 days to make a decision.<br>
+**3.3.1** The Service Provider will review each appeal and provide a written response within 14 days, including specific reasons for maintaining or lifting the block. The response will reference the specific provision of these Terms that was violated, if applicable.<br>
 
 ### <br> 4. Copyright and Intellectual Property <br><br>
 **4.1** All copyrights to the Website and Services belong to the Service Provider or other authorized entities, if explicitly stated.<br>
 **4.2** The User grants the Service Provider a non-exclusive, royalty-free, territorially unlimited license to use Content submitted by them for the purpose of providing the Services.<br>
 **4.3** The User declares that they hold full rights to submitted Content and that it does not infringe third-party rights.<br>
 **4.4** Responsibility for submitted Content lies entirely with the User.<br>
+**4.5** The Service Provider commits to removing unlawful Content upon receiving credible notification of its existence. Users can report such content through the channels specified in section 6.3.<br>
 
 ### <br> 5. Liability <br><br>
 **5.1** The Service Provider is not liable for:<br>
 - User actions and consequences of using the Services<br>
-- content published by Users through the Services<br>
+- content published by Users through the Services (except where the Service Provider has been notified of unlawful content and failed to remove it)<br>
 - losses or damages resulting from the use of Services, except as provided by mandatory provisions of law<br>
 - interruptions caused by external factors<br>
-- consequences of the functioning of the Website and Services<br>
-- disruptions in the functioning of the Website or Services regardless of the causes of their occurrence<br>
+- consequences of the functioning of the Website and Services, except for damages caused intentionally<br>
+- disruptions in the functioning of the Website or Services regardless of the causes of their occurrence, except for damages caused intentionally<br>
 
-**5.2** The Website and Services are provided "as is" without warranty of:<br>
-- uninterrupted operation<br>
-- error-free performance<br>
-- availability of all features<br>
-- regular updates<br>
+**5.2** The Service Provider strives to provide reliable Services and will address technical issues and non-conformities reported through official support channels. While we cannot guarantee perfect operation, we commit to:<br>
+- investigating reported technical problems<br>
+- providing reasonable efforts to maintain service availability<br>
+- addressing service non-conformities within a reasonable timeframe<br>
 
 **5.3** The Service Provider does not guarantee that the Services will meet individual User needs.<br>
-**5.4** The entire risk related to the quality and operation of the Services lies with the User.<br>
+**5.4** Users should use the Services at their own risk, understanding the inherent limitations of digital services.<br>
 **5.5** The User is fully responsible for:<br>
 - how they use the Services<br>
 - content shared via the Services<br>
@@ -116,14 +116,14 @@ ENTERED: 25.09.2025
 
 ### <br> 9. Service Operation Policy <br><br>
 **9.1** Thallium combines services created by the team and services reported by third parties in which we perform tasks within our competencies.<br>
-**9.2** Services created entirely by the team (hereinafter referred to as first services) are the full property of the service provider and other persons who are explicitly indicated.<br>
+**9.2** Services created entirely by the team (referred to as first services) are the full property of the service provider and other persons who are explicitly indicated.<br>
 **9.3** Each first service is autonomous, however they are dependent on the service provider. Each of them has separate:<br>
 - terms of service, privacy policies, action policies and other legal documents<br>
 - contact methods, support channel and communication channels, unless other documents defining the operation of the given service indicate otherwise<br>
 - accounts and channels on social media or third-party platforms, unless other documents defining the operation of the given service indicate otherwise<br>
 
 **9.4** Each first service has a document that accurately and personally describes the policy of the given service.<br>
-**9.5** Services created by third parties, in which we perform tasks only within given competencies (hereinafter referred to as third services) are the property of the third party, however the service provider has rights to the tasks performed within the competencies.<br>
+**9.5** Services created by third parties, in which we perform tasks only within given competencies (referred to as third services) are the property of the third party, however the service provider has rights to the tasks performed within the competencies.<br>
 **9.6** Each third service is autonomous. Each of them has separate:<br>
 - terms of service, privacy policies, action policies and other legal documents<br>
 - contact methods, support channel and communication channels<br>
@@ -135,6 +135,6 @@ ENTERED: 25.09.2025
 **9.8** The rest of the details regarding the third project are described in the service document.<br>
 
 ### <br> 10. Final Provisions <br><br>
-**9.1** The Terms come into effect 24 hours after publication and apply to all Users until the day a new version is introduced.<br>
-**9.2** In matters not regulated by these Terms, Polish law and European Union law shall apply.<br>
-**9.3** If any provision of the Terms is found invalid, the remaining provisions shall remain in full force.<br>
+**10.1** The Terms come into effect 24 hours after publication and apply to all Users until the day a new version is introduced.<br>
+**10.2** In matters not regulated by these Terms, Polish law and European Union law shall apply.<br>
+**10.3** If any provision of the Terms is found invalid, the remaining provisions shall remain in full force.<br>
